@@ -56,6 +56,7 @@
   },
   {
     "type": "images",
+    "columns": 2,
     "images": [
       {
         "imageUrl": "https://i.imgur.com/zDMfuBZ.png"

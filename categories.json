@@ -1,5 +1,6 @@
 [
   {
+    "id": "gameSystems",
     "title": "Игровые системы",
     "elements": [
       {
@@ -13,6 +14,7 @@
     ]
   },
   {
+    "id": "cars",
     "title": "Автомобили",
     "elements": [
       {
