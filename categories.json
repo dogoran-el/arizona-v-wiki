@@ -5,6 +5,23 @@
       {
         "name": "gym",
         "title": "Спортзал"
+      },
+      {
+        "name": "pets",
+        "title": "Домашние питомцы"
+      }
+    ]
+  },
+  {
+    "title": "Автомобили",
+    "elements": [
+      {
+        "name": "economy",
+        "title": "Эконом класс"
+      },
+      {
+        "name": "premium",
+        "title": "Премиум класс"
       }
     ]
   }
