@@ -2,6 +2,7 @@
   {
     "id": "gameSystems",
     "title": "Игровые системы",
+    "icon": "\uD83D\uDCD2",
     "elements": [
       {
         "name": "gym",
@@ -16,6 +17,7 @@
   {
     "id": "cars",
     "title": "Автомобили",
+    "icon": "🚘",
     "elements": [
       {
         "name": "economy",
