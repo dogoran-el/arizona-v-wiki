@@ -1,0 +1,15 @@
+[
+  {
+    "type": "title",
+    "title": "Эконом класс"
+  },
+  {
+    "type": "images",
+    "images": [
+      {
+        "imageUrl": "https://i.imgur.com/zDMfuBZ.png",
+        "small": true
+      }
+    ]
+  }
+]
