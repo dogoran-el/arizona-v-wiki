@@ -191,6 +191,72 @@
     ]
   },
   {
+    "type": "heading",
+    "title": "05. Навык",
+    "id": "skill"
+  },
+  {
+    "type": "text",
+    "withoutTitle": true,
+    "text": "Чем выше навык, тем быстрее персонаж ловит рыбу и открывает новые возможности рыбалки."
+  },
+  {
+    "type": "table",
+    "headerTitle": "Возможности навыка",
+    "rows": [
+      {
+        "imageUrl": "https://i.imgur.com/sZsnKaY.png",
+        "title": "1 уровень",
+        "description": "Доступна Обычная удочка. Доступна Зоны с рыбой. 0% уменьшение времени ловли рыбы."
+      },
+      {
+        "imageUrl": "https://i.imgur.com/sZsnKaY.png",
+        "title": "2 уровень",
+        "description": "2% уменьшение времени ловли рыбы."
+      },
+      {
+        "imageUrl": "https://i.imgur.com/sZsnKaY.png",
+        "title": "3 уровень",
+        "description": "Доступна Железная удочка. Видно % рыбных ресурсов в Зонах с рыбой. 3% уменьшение времени ловли рыбы."
+      },
+      {
+        "imageUrl": "https://i.imgur.com/sZsnKaY.png",
+        "title": "4 уровень",
+        "description": "4% уменьшение времени ловли рыбы."
+      },
+      {
+        "imageUrl": "https://i.imgur.com/sZsnKaY.png",
+        "title": "5 уровень",
+        "description": "Доступна Медная удочка. Видит в океане Лунки с рыбой и может в них рыбачить (необходима лодка). 5% уменьшение времени ловли рыбы."
+      },
+      {
+        "imageUrl": "https://i.imgur.com/sZsnKaY.png",
+        "title": "6 уровень",
+        "description": "6% уменьшение времени ловли рыбы."
+      },
+      {
+        "imageUrl": "https://i.imgur.com/sZsnKaY.png",
+        "title": "7 уровень",
+        "description": "7% уменьшение времени ловли рыбы."
+      },
+      {
+        "imageUrl": "https://i.imgur.com/sZsnKaY.png",
+        "title": "8 уровень",
+        "description": "Доступна Серебряная удочка. Видит % рыбных ресурсов в Лунках с рыбой на карте. 8% уменьшение времени ловли рыбы."
+      },
+      {
+        "imageUrl": "https://i.imgur.com/sZsnKaY.png",
+        "title": "9 уровень",
+        "description": "9% уменьшение времени ловли рыбы."
+      },
+      {
+        "imageUrl": "https://i.imgur.com/sZsnKaY.png",
+        "title": "10 уровень",
+        "description": "Доступна Золотая удочка. 10% уменьшение времени ловли рыбы."
+      }
+    ]
+  },
+  {
     "type": "vehiclesList",
     "items": [
       {
