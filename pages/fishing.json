@@ -1,0 +1,240 @@
+[
+  {
+    "type": "images",
+    "images": [
+      {
+        "imageUrl": "https://i.imgur.com/zDMfuBZ.png",
+        "small": true
+      }
+    ]
+  },
+  {
+    "type": "title",
+    "title": "Зачем нужен спортзал?"
+  },
+  {
+    "type": "text",
+    "text": "Спортзал на пляже Веспуччи-Бич, один из способов постоянно держать себя в форме. С помощью него можно повышать Силу и Выносливость которые влияют на улучшение характеристик вашего персонажа давая ряд различных приемуществ."
+  },
+  {
+    "type": "tableOfContents",
+    "rows": [
+      {
+        "id": "gym-location",
+        "title": "01. Местоположение спортзалов"
+      },
+      {
+        "id": "subscription",
+        "title": "02. Абонемент"
+      },
+      {
+        "id": "gym-equipment",
+        "title": "03. Тренажеры"
+      },
+      {
+        "id": "bars-and-mixes",
+        "title": "04. Батончики и смеси"
+      },
+      {
+        "id": "character-muscles",
+        "title": "05. Рельеф персонажа"
+      }
+    ]
+  },
+  {
+    "type": "heading",
+    "title": "01. Местоположение спортзалов",
+    "id": "gym-location"
+  },
+  {
+    "type": "title",
+    "title": "Общественный спортзал"
+  },
+  {
+    "type": "text",
+    "text": "Находят на пляже Веспуччи-Бич, в конце улицы Гома-стрит. Доступны по Абонементу."
+  },
+  {
+    "type": "images",
+    "columns": 2,
+    "images": [
+      {
+        "imageUrl": "https://i.imgur.com/zDMfuBZ.png"
+      },
+      {
+        "imageUrl": "https://i.imgur.com/zDMfuBZ.png"
+      }
+    ]
+  },
+  {
+    "type": "heading",
+    "title": "02. Абонемент",
+    "id": "subscription"
+  },
+  {
+    "type": "title",
+    "title": "Где приобрести Абонемент?"
+  },
+  {
+    "type": "text",
+    "text": "Приобрести его можно у тренера Billy Herrington, который стоит у входа в Общественный спортзал. Стоимость абонемента 15 000$ и позволяет заниматься на любом тренажере 1 час."
+  },
+  {
+    "type": "images",
+    "images": [
+      {
+        "imageUrl": "https://i.imgur.com/zDMfuBZ.png"
+      }
+    ]
+  },
+  {
+    "type": "text",
+    "text": "Да-да, это тот самый Билли Херрингтон."
+  },
+  {
+    "type": "heading",
+    "title": "03. Тренажеры",
+    "id": "gym-equipment"
+  },
+  {
+    "type": "title",
+    "title": "Что я получаю при тренировке?"
+  },
+  {
+    "type": "textWithElement",
+    "text": "Улучшение Силы позволит Вам получить следующие бонусы: урон от удара кулаками сильнее, карабканье по лестницам быстрее, нахождение под водой без акваланга дольше, а также возможность носить бронежилеты с 4 бронепластинами и до 5 ед. оружия без замедления.",
+    "imageUrl": "https://i.imgur.com/zDMfuBZ.png"
+  },
+  {
+    "type": "textWithElement",
+    "text": "Подробную информацию о навыках, их преимуществах, таблице опыта можно найти на странице Навыков. ",
+    "button": {
+      "text": "Открыть страницу Навыков",
+      "route": "/premium"
+    }
+  },
+  {
+    "type": "heading",
+    "title": "04. Батончики и смеси",
+    "id": "bars-and-mixes"
+  },
+  {
+    "type": "text",
+    "withoutTitle": true,
+    "text": "При тренировке Вы можете использовать различные батончики и смеси которые помогут ускорить Вашу тренировку. Получить батончики можно скрафтив их на верстаке в подвале дома или же купив на Центральном рынке у игроков. Смеси можно купить в Игровом магазине за AZ коины."
+  },
+  {
+    "type": "table",
+    "headerTitle": "Предметы",
+    "rows": [
+      {
+        "imageUrl": "https://i.imgur.com/zDMfuBZ.png",
+        "title": "Протеиновый батончик",
+        "description": "Прибавляет +1 JP при тренировке на 15 минут. Может скрафтить на верстаке в подвале дома."
+      },
+      {
+        "imageUrl": "https://i.imgur.com/zDMfuBZ.png",
+        "title": "Энергетический батончик",
+        "description": "Снимает 25% усталости при использовании. Может скрафтить на верстаке в подвале дома."
+      }
+    ]
+  },
+  {
+    "type": "heading",
+    "title": "05. Рельеф персонажа",
+    "id": "character-muscles"
+  },
+  {
+    "type": "text",
+    "withoutTitle": true,
+    "text": "Рельеф мышц имеет пять уровней, равных уровню навыка Сила и будет отображать Ваш прогресс визуально. Вредная еда будет пагубно влиять на состояние Вашего рельефа, понижая навык силы в зависимости от её вредности. Рекомендуем для сохранения процесса переключаться на здоровое питание овощами. 1 очко навыка будет пассивно отниматься каждые 60 минут проведенного на сервере времени."
+  },
+  {
+    "type": "importantNote",
+    "text": "В данный момент рельеф еще не доступен в игре."
+  },
+  {
+    "type": "table",
+    "rows": [
+      {
+        "imageUrl": "https://i.imgur.com/zDMfuBZ.png",
+        "title": "Протеиновый батончик",
+        "description": "Прибавляет +1 JP при тренировке на 15 минут. Может скрафтить на верстаке в подвале дома.",
+        "chance": 50,
+        "time": 60,
+        "items": [
+          {
+            "imageUrl": "https://i.imgur.com/zDMfuBZ.png",
+            "count": 10
+          },
+          {
+            "imageUrl": "https://i.imgur.com/zDMfuBZ.png",
+            "count": 10
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "vehiclesList",
+    "items": [
+      {
+        "imageUrl": "https://i.imgur.com/zDMfuBZ.png",
+        "title": "BMW M5 F90",
+        "price": 5000,
+        "priceIcon": "icon-az-coin"
+      },
+      {
+        "imageUrl": "https://i.imgur.com/zDMfuBZ.png",
+        "title": "BMW M5 F90",
+        "price": 5000,
+        "priceIcon": "icon-az-coin"
+      },
+      {
+        "imageUrl": "https://i.imgur.com/zDMfuBZ.png",
+        "title": "BMW M5 F90",
+        "price": 5000,
+        "priceIcon": "icon-az-coin"
+      },
+      {
+        "imageUrl": "https://i.imgur.com/zDMfuBZ.png",
+        "title": "BMW M5 F90",
+        "price": 5000
+      },
+      {
+        "imageUrl": "https://i.imgur.com/zDMfuBZ.png",
+        "title": "BMW M5 F90",
+        "price": 5000
+      },
+      {
+        "imageUrl": "https://i.imgur.com/zDMfuBZ.png",
+        "title": "BMW M5 F90",
+        "price": 5000
+      },
+      {
+        "imageUrl": "https://i.imgur.com/zDMfuBZ.png",
+        "title": "BMW M5 F90",
+        "price": 5000
+      },
+      {
+        "imageUrl": "https://i.imgur.com/zDMfuBZ.png",
+        "title": "BMW M5 F90",
+        "price": 5000
+      },
+      {
+        "imageUrl": "https://i.imgur.com/zDMfuBZ.png",
+        "title": "BMW M5 F90",
+        "price": 5000
+      },
+      {
+        "imageUrl": "https://i.imgur.com/zDMfuBZ.png",
+        "title": "BMW M5 F90",
+        "price": 5000
+      }
+    ]
+  },
+  {
+    "type": "quote",
+    "text": "Джеральд договорился на крупную партию золотых монет, нужно помочь ему их найти, он щедро заплатит."
+  }
+]
