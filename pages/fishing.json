@@ -313,6 +313,47 @@
     ]
   },
   {
+    "type": "heading",
+    "title": "04. Рыбные ресурсы",
+    "id": "fishing-rodes"
+  },
+  {
+    "type": "text",
+    "withoutTitle": true,
+    "text": "Чем сильнее истощены рыбные ресурсы, тем дольше ловится рыба. Зона восстанавливается постепенно на 1% каждые 2 минуты, а также каждые несколько часов происходит случайная генерация рыбных ресурсов в зонах с рыбой."
+  },
+  {
+    "type": "table",
+    "headerTitle": "Рыбные ресурсы",
+    "rows": [
+      {
+        "imageUrl": "https://i.imgur.com/sZsnKaY.png",
+        "title": "≤100% Очень много",
+        "description": "02:00 минуты"
+      },
+      {
+        "imageUrl": "https://i.imgur.com/eB8Pufx.png",
+        "title": "≤75% Много",
+        "description": "02:30 минуты"
+      },
+      {
+        "imageUrl": "https://i.imgur.com/daFk6Vp.png",
+        "title": "≤50% Нормально",
+        "description": "03:00 минуты"
+      },
+      {
+        "imageUrl": "https://i.imgur.com/02CX2w9.png",
+        "title": "≤25% Мало",
+        "description": "03:30 минуты"
+      },
+      {
+        "imageUrl": "https://i.imgur.com/02CX2w9.png",
+        "title": "≤10% Очень мало",
+        "description": "04:00 минуты"
+      }
+    ]
+  },
+  {
     "type": "vehiclesList",
     "items": [
       {
