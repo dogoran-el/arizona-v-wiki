@@ -257,6 +257,62 @@
     ]
   },
   {
+    "type": "table",
+    "headerTitle": "Таблица опыта",
+    "rows": [
+      {
+        "imageUrl": "https://i.imgur.com/sZsnKaY.png",
+        "title": "1 уровень",
+        "description": "Необходимо: 0 JP. Всего: 0 JP."
+      },
+      {
+        "imageUrl": "https://i.imgur.com/sZsnKaY.png",
+        "title": "2 уровень",
+        "description": "Необходимо: 4000 JP. Всего: 4000 JP."
+      },
+      {
+        "imageUrl": "https://i.imgur.com/sZsnKaY.png",
+        "title": "3 уровень",
+        "description": "Необходимо: 4600 JP. Всего: 8600 JP."
+      },
+      {
+        "imageUrl": "https://i.imgur.com/sZsnKaY.png",
+        "title": "4 уровень",
+        "description": "Необходимо: 5200 JP. Всего: 13 800 JP."
+      },
+      {
+        "imageUrl": "https://i.imgur.com/sZsnKaY.png",
+        "title": "5 уровень",
+        "description": "Необходимо: 5800 JP. Всего: 19 600 JP."
+      },
+      {
+        "imageUrl": "https://i.imgur.com/sZsnKaY.png",
+        "title": "6 уровень",
+        "description": "Необходимо: 6400 JP. Всего: 26 000 JP."
+      },
+      {
+        "imageUrl": "https://i.imgur.com/sZsnKaY.png",
+        "title": "7 уровень",
+        "description": "Необходимо: 7000 JP. Всего: 33 000 JP."
+      },
+      {
+        "imageUrl": "https://i.imgur.com/sZsnKaY.png",
+        "title": "8 уровень",
+        "description": "Необходимо: 7600 JP. Всего: 40 600 JP."
+      },
+      {
+        "imageUrl": "https://i.imgur.com/sZsnKaY.png",
+        "title": "9 уровень",
+        "description": "Необходимо: 8200 JP. Всего: 48 800 JP."
+      },
+      {
+        "imageUrl": "https://i.imgur.com/sZsnKaY.png",
+        "title": "10 уровень",
+        "description": "Необходимо: 8800 JP. Всего: 57 600 JP."
+      }
+    ]
+  },
+  {
     "type": "vehiclesList",
     "items": [
       {
