@@ -164,32 +164,32 @@
       {
         "imageUrl": "https://i.imgur.com/8p7bmP9.png",
         "title": "Обычная удочка",
-        "description": "Можно приобрести в магазине туристического снаряжения. Доступна с 1 уровня. 0% уменьшение времени ловли рыбы."
+        "description": "Можно приобрести в магазине туристического снаряжения. Доступна с 1 уровня."
       },
       {
         "imageUrl": "https://i.imgur.com/iZkXhH0.png",
         "title": "Железная удочка",
-        "description": "Можно скрафтить на верстаке в подвале дома или в публичной мастерской. Доступна с 3 уровня. 5% уменьшение времени ловли рыбы."
+        "description": "Можно скрафтить на верстаке в подвале дома или в публичной мастерской. Доступна с 3 уровня и ускоряет ловлю рыбы (5%)"
       },
       {
         "imageUrl": "https://i.imgur.com/ozHtyPd.png",
         "title": "Медная удочка",
-        "description": "Можно скрафтить на верстаке в подвале дома или в публичной мастерской. Доступна с 5 уровня. 10% уменьшение времени ловли рыбы."
+        "description": "Можно скрафтить на верстаке в подвале дома или в публичной мастерской. Доступна с 5 уровня и ускоряет ловлю рыбы (10%)"
       },
       {
         "imageUrl": "https://i.imgur.com/8mYgyFB.png",
         "title": "Серебряная удочка",
-        "description": "Можно скрафтить на верстаке в подвале дома или в публичной мастерской. Доступна с 8 уровня. 15% уменьшение времени ловли рыбы."
+        "description": "Можно скрафтить на верстаке в подвале дома или в публичной мастерской. Доступна с 8 уровня и ускоряет ловлю рыбы (15%)"
       },
       {
         "imageUrl": "https://i.imgur.com/0TNX6gM.png",
         "title": "Золотая удочка",
-        "description": "Можно скрафтить на верстаке в подвале дома или в публичной мастерской. Доступна с 10 уровня. 20% уменьшение времени ловли рыбы."
+        "description": "Можно скрафтить на верстаке в подвале дома или в публичной мастерской. Доступна с 10 уровня и ускоряет ловлю рыбы (20%)"
       },
       {
         "imageUrl": "https://i.imgur.com/0V1xP05.png",
         "title": "Бустер удочка",
-        "description": "Можно скрафтить на верстаке в подвале дома или в публичной мастерской. Доступна с 10 уровня. 20% уменьшение времени ловли рыбы."
+        "description": "Можно получить за буст официального сервера Discord. Доступна с 10 уровня и ускоряет ловлю рыбы (20%)"
       }
     ]
   },
@@ -208,24 +208,24 @@
     "headerTitle": "Наживка",
     "rows": [
       {
-        "imageUrl": "https://i.imgur.com/c6LPG07.png",
+        "imageUrl": "https://i.imgur.com/iFiMRJG.png",
         "title": "Без наживки",
-        "description": "Шанс поймать рыбу (50%) и без ускорения ловли рыбы."
+        "description": "Шанс поймать рыбу (50%)."
       },
       {
         "imageUrl": "https://i.imgur.com/c6LPG07.png",
         "title": "Черви",
-        "description": "Увеличивают шанс поймать рыбу (75%) и ускоряет ловлю рыбы. Можно добыть при помощи лопаты."
+        "description": "Шанс поймать рыбу (75%)."
       },
       {
         "imageUrl": "https://i.imgur.com/LOnteyz.png",
         "title": "Банка червей",
-        "description": "Увеличивают шанс поймать рыбу (100%) и ускоряет ловлю рыбы (5%). Можно скрафтить в подвале дома."
+        "description": "Шанс поймать рыбу (100%) и ускоряет ловлю рыбы (5%). Можно скрафтить в подвале дома."
       },
       {
         "imageUrl": "https://i.imgur.com/ufDMCh4.png",
         "title": "Банка мотыля",
-        "description": "Увеличивают шанс поймать рыбу (100%) и ускоряет ловлю рыбы (20%). Можно обменять у Рыбака или купить в игровом магазине."
+        "description": "Шанс поймать рыбу (100%) и ускоряет ловлю рыбы (20%). Можно обменять у Рыбака или купить в игровом магазине."
       }
     ]
   },
@@ -244,52 +244,52 @@
     "headerTitle": "Возможности навыка",
     "rows": [
       {
-        "imageUrl": "https://i.imgur.com/sZsnKaY.png",
+        "imageUrl": "https://i.imgur.com/a5UETz7.png",
         "title": "1 уровень",
         "description": "Доступна Обычная удочка. Доступна Береговая рыбалка. 0% уменьшение времени ловли рыбы."
       },
       {
-        "imageUrl": "https://i.imgur.com/sZsnKaY.png",
+        "imageUrl": "https://i.imgur.com/wlxhzU4.png",
         "title": "2 уровень",
         "description": "2% уменьшение времени ловли рыбы."
       },
       {
-        "imageUrl": "https://i.imgur.com/sZsnKaY.png",
+        "imageUrl": "https://i.imgur.com/JmYwGq6.png",
         "title": "3 уровень",
         "description": "Доступна Железная удочка. Видно % рыбных ресурсов в Зонах с рыбой. 3% уменьшение времени ловли рыбы."
       },
       {
-        "imageUrl": "https://i.imgur.com/sZsnKaY.png",
+        "imageUrl": "https://i.imgur.com/xuwOOII.png",
         "title": "4 уровень",
         "description": "4% уменьшение времени ловли рыбы."
       },
       {
-        "imageUrl": "https://i.imgur.com/sZsnKaY.png",
+        "imageUrl": "https://i.imgur.com/1aYxvlv.png",
         "title": "5 уровень",
         "description": "Доступна Медная удочка. Видит в океане Лунки с рыбой (Морская рыбалка) и может в них рыбачить (необходима лодка). 5% уменьшение времени ловли рыбы."
       },
       {
-        "imageUrl": "https://i.imgur.com/sZsnKaY.png",
+        "imageUrl": "https://i.imgur.com/d08oCQI.png",
         "title": "6 уровень",
         "description": "6% уменьшение времени ловли рыбы."
       },
       {
-        "imageUrl": "https://i.imgur.com/sZsnKaY.png",
+        "imageUrl": "https://i.imgur.com/yxySw3n.png",
         "title": "7 уровень",
         "description": "7% уменьшение времени ловли рыбы."
       },
       {
-        "imageUrl": "https://i.imgur.com/sZsnKaY.png",
+        "imageUrl": "https://i.imgur.com/a9pHBKB.png",
         "title": "8 уровень",
         "description": "Доступна Серебряная удочка. Видит % рыбных ресурсов в Лунках с рыбой на карте. 8% уменьшение времени ловли рыбы."
       },
       {
-        "imageUrl": "https://i.imgur.com/sZsnKaY.png",
+        "imageUrl": "https://i.imgur.com/nGAh8mS.png",
         "title": "9 уровень",
         "description": "9% уменьшение времени ловли рыбы."
       },
       {
-        "imageUrl": "https://i.imgur.com/sZsnKaY.png",
+        "imageUrl": "https://i.imgur.com/pA5hPB1.png",
         "title": "10 уровень",
         "description": "Доступна Золотая удочка. 10% уменьшение времени ловли рыбы."
       }
@@ -300,52 +300,52 @@
     "headerTitle": "Таблица опыта",
     "rows": [
       {
-        "imageUrl": "https://i.imgur.com/sZsnKaY.png",
+        "imageUrl": "https://i.imgur.com/a5UETz7.png",
         "title": "1 уровень",
         "description": "Необходимо: 0 JP. Всего: 0 JP."
       },
       {
-        "imageUrl": "https://i.imgur.com/sZsnKaY.png",
+        "imageUrl": "https://i.imgur.com/wlxhzU4.png",
         "title": "2 уровень",
         "description": "Необходимо: 700 JP. Всего: 700 JP."
       },
       {
-        "imageUrl": "https://i.imgur.com/sZsnKaY.png",
+        "imageUrl": "https://i.imgur.com/JmYwGq6.png",
         "title": "3 уровень",
         "description": "Необходимо: 1400 JP. Всего: 2100 JP."
       },
       {
-        "imageUrl": "https://i.imgur.com/sZsnKaY.png",
+        "imageUrl": "https://i.imgur.com/xuwOOII.png",
         "title": "4 уровень",
         "description": "Необходимо: 1600 JP. Всего: 3700 JP."
       },
       {
-        "imageUrl": "https://i.imgur.com/sZsnKaY.png",
+        "imageUrl": "https://i.imgur.com/1aYxvlv.png",
         "title": "5 уровень",
         "description": "Необходимо: 2400 JP. Всего: 6100 JP."
       },
       {
-        "imageUrl": "https://i.imgur.com/sZsnKaY.png",
+        "imageUrl": "https://i.imgur.com/d08oCQI.png",
         "title": "6 уровень",
         "description": "Необходимо: 3600 JP. Всего: 9700 JP."
       },
       {
-        "imageUrl": "https://i.imgur.com/sZsnKaY.png",
+        "imageUrl": "https://i.imgur.com/yxySw3n.png",
         "title": "7 уровень",
         "description": "Необходимо: 5400 JP. Всего: 15100 JP."
       },
       {
-        "imageUrl": "https://i.imgur.com/sZsnKaY.png",
+        "imageUrl": "https://i.imgur.com/a9pHBKB.png",
         "title": "8 уровень",
         "description": "Необходимо: 8100 JP. Всего: 23200 JP."
       },
       {
-        "imageUrl": "https://i.imgur.com/sZsnKaY.png",
+        "imageUrl": "https://i.imgur.com/nGAh8mS.png",
         "title": "9 уровень",
         "description": "Необходимо: 12000 JP. Всего: 27100 JP."
       },
       {
-        "imageUrl": "https://i.imgur.com/sZsnKaY.png",
+        "imageUrl": "https://i.imgur.com/pA5hPB1.png",
         "title": "10 уровень",
         "description": "Необходимо: 18000 JP. Всего: 45100 JP."
       }
@@ -366,87 +366,29 @@
     "headerTitle": "Рыбные ресурсы",
     "rows": [
       {
-        "imageUrl": "https://i.imgur.com/sZsnKaY.png",
+        "imageUrl": "https://i.imgur.com/fAvysef.png",
         "title": "≤100% Очень много",
         "description": "01:30 минуты (90 сек)"
       },
       {
-        "imageUrl": "https://i.imgur.com/eB8Pufx.png",
+        "imageUrl": "https://i.imgur.com/01FnqR0.png",
         "title": "≤75% Много",
         "description": "02:00 минуты (120 сек)"
       },
       {
-        "imageUrl": "https://i.imgur.com/daFk6Vp.png",
+        "imageUrl": "https://i.imgur.com/slcRjj2.png",
         "title": "≤50% Нормально",
         "description": "02:30 минуты (150 сек)"
       },
       {
-        "imageUrl": "https://i.imgur.com/02CX2w9.png",
+        "imageUrl": "https://i.imgur.com/xitGQmg.png",
         "title": "≤25% Мало",
         "description": "03:00 минуты (180 сек)"
       },
       {
-        "imageUrl": "https://i.imgur.com/02CX2w9.png",
+        "imageUrl": "https://i.imgur.com/Xxi0GuB.png",
         "title": "≤10% Очень мало",
         "description": "03:30 минуты (210 сек)"
-      }
-    ]
-  },
-  {
-    "type": "vehiclesList",
-    "items": [
-      {
-        "imageUrl": "https://i.imgur.com/zDMfuBZ.png",
-        "title": "BMW M5 F90",
-        "price": 5000,
-        "priceIcon": "icon-az-coin"
-      },
-      {
-        "imageUrl": "https://i.imgur.com/zDMfuBZ.png",
-        "title": "BMW M5 F90",
-        "price": 5000,
-        "priceIcon": "icon-az-coin"
-      },
-      {
-        "imageUrl": "https://i.imgur.com/zDMfuBZ.png",
-        "title": "BMW M5 F90",
-        "price": 5000,
-        "priceIcon": "icon-az-coin"
-      },
-      {
-        "imageUrl": "https://i.imgur.com/zDMfuBZ.png",
-        "title": "BMW M5 F90",
-        "price": 5000
-      },
-      {
-        "imageUrl": "https://i.imgur.com/zDMfuBZ.png",
-        "title": "BMW M5 F90",
-        "price": 5000
-      },
-      {
-        "imageUrl": "https://i.imgur.com/zDMfuBZ.png",
-        "title": "BMW M5 F90",
-        "price": 5000
-      },
-      {
-        "imageUrl": "https://i.imgur.com/zDMfuBZ.png",
-        "title": "BMW M5 F90",
-        "price": 5000
-      },
-      {
-        "imageUrl": "https://i.imgur.com/zDMfuBZ.png",
-        "title": "BMW M5 F90",
-        "price": 5000
-      },
-      {
-        "imageUrl": "https://i.imgur.com/zDMfuBZ.png",
-        "title": "BMW M5 F90",
-        "price": 5000
-      },
-      {
-        "imageUrl": "https://i.imgur.com/zDMfuBZ.png",
-        "title": "BMW M5 F90",
-        "price": 5000
       }
     ]
   },
