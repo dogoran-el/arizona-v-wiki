@@ -47,10 +47,6 @@
     "id": "gym-location"
   },
   {
-    "type": "title",
-    "title": "Общественный спортзал"
-  },
-  {
     "type": "text",
     "text": "Скупщики скупают рыбу ."
   },
@@ -87,6 +83,18 @@
         "imageUrl": "https://i.imgur.com/FcWE6qN.png"
       }
     ]
+  },
+  {
+    "type": "images",
+    "images": [
+      {
+        "imageUrl": "https://i.imgur.com/Krzsl3n.png"
+      }
+    ]
+  },
+  {
+    "type": "text",
+    "text": "Интерфейс продажи рыбы скупщику."
   },
   {
     "type": "heading",
