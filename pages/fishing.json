@@ -43,7 +43,7 @@
   },
   {
     "type": "heading",
-    "title": "01. Местоположение спортзалов",
+    "title": "01. Скупщики рыбы",
     "id": "gym-location"
   },
   {
@@ -52,17 +52,27 @@
   },
   {
     "type": "text",
-    "text": "Находят на пляже Веспуччи-Бич, в конце улицы Гома-стрит. Доступны по Абонементу."
+    "text": "Скупщики скупают рыбу ."
+  },
+  {
+    "type": "quote",
+    "text": "Джеральд договорился на крупную партию золотых монет, нужно помочь ему их найти, он щедро заплатит."
   },
   {
     "type": "images",
-    "columns": 2,
+    "columns": 4,
     "images": [
       {
-        "imageUrl": "https://i.imgur.com/zDMfuBZ.png"
+        "imageUrl": "https://i.imgur.com/K5OlWYp.png"
       },
       {
-        "imageUrl": "https://i.imgur.com/zDMfuBZ.png"
+        "imageUrl": "https://i.imgur.com/K5OlWYp.png"
+      },
+      {
+        "imageUrl": "https://i.imgur.com/K5OlWYp.png"
+      },
+      {
+        "imageUrl": "https://i.imgur.com/VQNXskK.png"
       }
     ]
   },
@@ -96,7 +106,7 @@
     "columns": 2,
     "images": [
       {
-        "imageUrl": "https://i.imgur.com/Mm4khIy.png"
+        "imageUrl": "https://i.imgur.com/z25jxeJ.png"
       },
       {
         "imageUrl": "https://i.imgur.com/yDGHrZ5.png"
