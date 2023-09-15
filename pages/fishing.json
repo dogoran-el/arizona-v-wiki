@@ -60,19 +60,31 @@
   },
   {
     "type": "images",
-    "columns": 4,
+    "columns": 3,
     "images": [
       {
         "imageUrl": "https://i.imgur.com/K5OlWYp.png"
       },
       {
-        "imageUrl": "https://i.imgur.com/K5OlWYp.png"
+        "imageUrl": "https://i.imgur.com/HuarUF7.png"
       },
       {
-        "imageUrl": "https://i.imgur.com/K5OlWYp.png"
-      },
+        "imageUrl": "https://i.imgur.com/mmvCpTb.png"
+      }
+    ]
+  },
+  {
+    "type": "images",
+    "columns": 3,
+    "images": [
       {
         "imageUrl": "https://i.imgur.com/VQNXskK.png"
+      },
+      {
+        "imageUrl": "https://i.imgur.com/pogZSaP.png"
+      },
+      {
+        "imageUrl": "https://i.imgur.com/FcWE6qN.png"
       }
     ]
   },
