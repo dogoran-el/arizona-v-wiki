@@ -3,7 +3,7 @@
     "type": "images",
     "images": [
       {
-        "imageUrl": "https://i.imgur.com/zDMfuBZ.png",
+        "imageUrl": "https://i.imgur.com/wlGx7cF.png",
         "small": true
       }
     ]
@@ -68,7 +68,7 @@
   },
   {
     "type": "heading",
-    "title": "02. Я новичок, как начать рыбачить?",
+    "title": "01. Я новичок, как начать рыбачить?",
     "id": "subscription"
   },
   {
@@ -81,7 +81,23 @@
   },
   {
     "type": "images",
+    "columns": 2,
     "images": [
+      {
+        "imageUrl": "https://i.imgur.com/zDMfuBZ.png"
+      },
+      {
+        "imageUrl": "https://i.imgur.com/zDMfuBZ.png"
+      }
+    ]
+  },
+  {
+    "type": "images",
+    "columns": 2,
+    "images": [
+      {
+        "imageUrl": "https://i.imgur.com/zDMfuBZ.png"
+      },
       {
         "imageUrl": "https://i.imgur.com/zDMfuBZ.png"
       }
@@ -101,13 +117,9 @@
   },
   {
     "type": "images",
-    "columns": 2,
     "images": [
       {
-        "imageUrl": "https://i.imgur.com/zDMfuBZ.png"
-      },
-      {
-        "imageUrl": "https://i.imgur.com/zDMfuBZ.png"
+        "imageUrl": "https://i.imgur.com/a2OkZVW.png"
       }
     ]
   },
@@ -127,33 +139,13 @@
     "type": "images",
     "images": [
       {
-        "imageUrl": "https://i.imgur.com/zDMfuBZ.png"
+        "imageUrl": "https://i.imgur.com/PLikBl6.png"
       }
     ]
   },
   {
     "type": "text",
     "text": "Процесс рыбалки в одной из зон."
-  },
-  {
-    "type": "title",
-    "title": "Где приобрести Лопату?"
-  },
-  {
-    "type": "text",
-    "text": "Приобрести ее можно у магазинах туристического снаряжения, найти которые можно в гетто Лос-Сантоса и в Сэнди-Шорс (на карте отмечены как оранжевый штурвал от коробля)."
-  },
-  {
-    "type": "images",
-    "images": [
-      {
-        "imageUrl": "https://i.imgur.com/zDMfuBZ.png"
-      }
-    ]
-  },
-  {
-    "type": "text",
-    "text": "Да-да, это тот самый Билли Херрингтон."
   },
   {
     "type": "heading",
@@ -170,28 +162,33 @@
     "headerTitle": "Удочки",
     "rows": [
       {
-        "imageUrl": "https://i.imgur.com/sZsnKaY.png",
+        "imageUrl": "https://i.imgur.com/8p7bmP9.png",
         "title": "Обычная удочка",
         "description": "Можно приобрести в магазине туристического снаряжения. Доступна с 1 уровня. 0% уменьшение времени ловли рыбы."
       },
       {
-        "imageUrl": "https://i.imgur.com/eB8Pufx.png",
+        "imageUrl": "https://i.imgur.com/iZkXhH0.png",
         "title": "Железная удочка",
         "description": "Можно скрафтить на верстаке в подвале дома или в публичной мастерской. Доступна с 3 уровня. 5% уменьшение времени ловли рыбы."
       },
       {
-        "imageUrl": "https://i.imgur.com/daFk6Vp.png",
+        "imageUrl": "https://i.imgur.com/ozHtyPd.png",
         "title": "Медная удочка",
         "description": "Можно скрафтить на верстаке в подвале дома или в публичной мастерской. Доступна с 5 уровня. 10% уменьшение времени ловли рыбы."
       },
       {
-        "imageUrl": "https://i.imgur.com/02CX2w9.png",
+        "imageUrl": "https://i.imgur.com/8mYgyFB.png",
         "title": "Серебряная удочка",
         "description": "Можно скрафтить на верстаке в подвале дома или в публичной мастерской. Доступна с 8 уровня. 15% уменьшение времени ловли рыбы."
       },
       {
-        "imageUrl": "https://i.imgur.com/02CX2w9.png",
+        "imageUrl": "https://i.imgur.com/0TNX6gM.png",
         "title": "Золотая удочка",
+        "description": "Можно скрафтить на верстаке в подвале дома или в публичной мастерской. Доступна с 10 уровня. 20% уменьшение времени ловли рыбы."
+      },
+      {
+        "imageUrl": "https://i.imgur.com/0V1xP05.png",
+        "title": "Бустер удочка",
         "description": "Можно скрафтить на верстаке в подвале дома или в публичной мастерской. Доступна с 10 уровня. 20% уменьшение времени ловли рыбы."
       }
     ]
@@ -204,31 +201,31 @@
   {
     "type": "text",
     "withoutTitle": true,
-    "text": "От типа наживки зависит изменение шанса на вылов рыбы и уменьшение времени ловли. Если начать рыбалку без наживки, есть вероятность ничего не поймать. Чтобы получить наживку Черви необходимо купить Лопату в магазине тур.снаряжения и накопать их в любой точке штата будучи на траве. Банку червей можно создать в подвале дома или публичной мастерской, необходимы предметы Черви и Стеклянная банка, купить ее можно у NPC возле мола. Банка мотыля можно приобрести в донат магазине в разделе расходников."
+    "text": "От типа наживки зависит изменение шанса на вылов рыбы и уменьшение времени ловли. Если начать рыбалку без наживки, есть вероятность ничего не поймать. Чтобы получить наживку Черви необходимо купить Лопату в магазине туристического снаряжения и накопать их в любой точке штата будучи на траве. Банку червей можно создать в подвале дома. Банка мотыля можно обменять у Рыбака или купить в игровом магазине."
   },
   {
     "type": "table",
     "headerTitle": "Наживка",
     "rows": [
       {
-        "imageUrl": "https://i.imgur.com/sZsnKaY.png",
+        "imageUrl": "https://i.imgur.com/c6LPG07.png",
         "title": "Без наживки",
-        "description": "Шанс вылова: 50%, уменьшение времени ловли рыбы: 0%"
+        "description": "Шанс поймать рыбу (50%) и без ускорения ловли рыбы."
       },
       {
-        "imageUrl": "https://i.imgur.com/eB8Pufx.png",
+        "imageUrl": "https://i.imgur.com/c6LPG07.png",
         "title": "Черви",
-        "description": "Шанс вылова: 75%, уменьшение времени ловли рыбы: 0%"
+        "description": "Увеличивают шанс поймать рыбу (75%) и ускоряет ловлю рыбы. Можно добыть при помощи лопаты."
       },
       {
-        "imageUrl": "https://i.imgur.com/daFk6Vp.png",
+        "imageUrl": "https://i.imgur.com/LOnteyz.png",
         "title": "Банка червей",
-        "description": "Шанс вылова: 100%, уменьшение времени ловли рыбы: 5%"
+        "description": "Увеличивают шанс поймать рыбу (100%) и ускоряет ловлю рыбы (5%). Можно скрафтить в подвале дома."
       },
       {
-        "imageUrl": "https://i.imgur.com/02CX2w9.png",
+        "imageUrl": "https://i.imgur.com/ufDMCh4.png",
         "title": "Банка мотыля",
-        "description": "Шанс вылова: 100%, уменьшение времени ловли рыбы: 20%"
+        "description": "Увеличивают шанс поймать рыбу (100%) и ускоряет ловлю рыбы (20%). Можно обменять у Рыбака или купить в игровом магазине."
       }
     ]
   },
