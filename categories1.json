@@ -1,0 +1,17 @@
+[
+  {
+    "id": "gameSystems",
+    "title": "Игровые системы",
+    "icon": "\uD83D\uDCD2",
+    "elements": [
+      {
+        "name": "fishing",
+        "title": "Рыбалка"
+      },
+      {
+        "name": "pets",
+        "title": "Питомцы"
+      }
+    ]
+  }
+]
