@@ -304,7 +304,7 @@
   },
   {
     "type": "images",
-    "columns": 3,
+    "columns": 7,
     "images": [
       {
         "imageUrl": "https://i.imgur.com/gKQHMJL.png"
@@ -332,6 +332,53 @@
     {
     "type": "text",
     "text": "Местоположение крючков на карте."
+  },
+  {
+    "type": "title",
+    "title": "Морская рыбалка (лунки)"
+  },
+  {
+    "type": "text",
+    "text": "Чтобы рыбачить в лунках, необходима лодка и 5 уровень навыка рыбака. Лунки появляются в океане с разным % рыбных ресурсов. Лодку можно купить в магазине лодок или у игрока. Местоположение лунок в океане определяется случайным образом. Лунка представляет собой особую область на воде, в которой находится рыба."
+  },
+  {
+    "type": "images",
+    "images": [
+      {
+        "imageUrl": "https://i.imgur.com/KdJ8FmV.png"
+      }
+    ]
+  },
+  {
+    "type": "images",
+    "columns": 10,
+    "images": [
+      {
+        "imageUrl": "https://i.imgur.com/gKQHMJL.png"
+      },
+      {
+        "imageUrl": "https://i.imgur.com/r3eRmOz.png"
+      },
+      {
+        "imageUrl": "https://i.imgur.com/w9gAP37.png"
+      },
+      {
+        "imageUrl": "https://i.imgur.com/iBsiojG.png"
+      },
+      {
+        "imageUrl": "https://i.imgur.com/wuz5LwY.png"
+      },
+      {
+        "imageUrl": "https://i.imgur.com/4WaKmp8.png"
+      },
+      {
+        "imageUrl": "https://i.imgur.com/TDbVUpo.png"
+      }
+    ]
+  },
+    {
+    "type": "text",
+    "text": "Местоположение лунок на карте."
   },
   {
     "type": "heading",
@@ -395,17 +442,7 @@
       },
       {
         "imageUrl": "https://i.imgur.com/mmvCpTb.png"
-      }
-    ]
-  },
-  {
-    "type": "text",
-    "text": "Местоположение всех скупщиков рыбы."
-  },
-  {
-    "type": "images",
-    "columns": 3,
-    "images": [
+      },
       {
         "imageUrl": "https://i.imgur.com/VQNXskK.png"
       },
@@ -416,6 +453,10 @@
         "imageUrl": "https://i.imgur.com/FcWE6qN.png"
       }
     ]
+  },
+  {
+    "type": "text",
+    "text": "Местоположение всех скупщиков рыбы."
   },
   {
     "type": "images",
