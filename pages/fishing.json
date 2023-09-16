@@ -36,20 +36,24 @@
         "title": "04. Ловля рыбы и сила броска"
       },
       {
+        "id": "fishing-zones",
+        "title": "05. Береговая и морская рыбалка"
+      },
+      {
         "id": "expiration-date",
-        "title": "05. Срок годности рыбы и ее продажа"
+        "title": "06. Срок годности рыбы и ее продажа"
       },
       {
         "id": "skill",
-        "title": "06. Навык"
+        "title": "07. Навык"
       },
       {
         "id": "fish-resources",
-        "title": "07. Рыбные ресурсы"
+        "title": "08. Рыбные ресурсы"
       },
       {
         "id": "trash",
-        "title": "08. Мусор"
+        "title": "09. Мусор"
       }
     ]
   },
@@ -279,7 +283,59 @@
   },
   {
     "type": "heading",
-    "title": "05. Срок годности рыбы и ее продажа",
+    "title": "05. Береговая и морская рыбалка",
+    "id": "fishing-zones"
+  },
+  {
+    "type": "title",
+    "title": "Береговая рыбалка (крючки)"
+  },
+  {
+    "type": "text",
+    "text": "Идеальный вариант для новичка и прокачки навыка рыбалки. Крючки изначально отображены на карте для большего комфорта будущих рыбаков, со временем (3 уровень рыбака) вы научитесь заранее видеть сколько рыбных ресурсов сейчас в крючке. Рыбачить в крючках безопасно, все они оснащены зеленой зоной."
+  },
+  {
+    "type": "images",
+    "images": [
+      {
+        "imageUrl": "https://i.imgur.com/lTVxlMs.png"
+      }
+    ]
+  },
+  {
+    "type": "images",
+    "columns": 3,
+    "images": [
+      {
+        "imageUrl": "https://i.imgur.com/gKQHMJL.png"
+      },
+      {
+        "imageUrl": "https://i.imgur.com/r3eRmOz.png"
+      },
+      {
+        "imageUrl": "https://i.imgur.com/w9gAP37.png"
+      },
+      {
+        "imageUrl": "https://i.imgur.com/iBsiojG.png"
+      },
+      {
+        "imageUrl": "https://i.imgur.com/wuz5LwY.png"
+      },
+      {
+        "imageUrl": "https://i.imgur.com/4WaKmp8.png"
+      },
+      {
+        "imageUrl": "https://i.imgur.com/TDbVUpo.png"
+      }
+    ]
+  },
+    {
+    "type": "text",
+    "text": "Местоположение крючков на карте."
+  },
+  {
+    "type": "heading",
+    "title": "06. Срок годности рыбы и ее продажа",
     "id": "expiration-date"
   },
   {
@@ -375,7 +431,7 @@
   },
   {
     "type": "heading",
-    "title": "06. Навык",
+    "title": "07. Навык",
     "id": "skill"
   },
   {
@@ -531,7 +587,7 @@
   },
   {
     "type": "heading",
-    "title": "07. Рыбные ресурсы",
+    "title": "08. Рыбные ресурсы",
     "id": "fish-resources"
   },
   {
@@ -572,7 +628,7 @@
   },
   {
     "type": "heading",
-    "title": "08. Мусор",
+    "title": "09. Мусор",
     "id": "trash"
   },
   {
