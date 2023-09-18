@@ -66,6 +66,36 @@
     ]
   },
   {
+    "type": "images",
+    "columns": 8,
+    "images": [
+      {
+        "imageUrl": "https://i.imgur.com/Ti9KW5s.png"
+      },
+      {
+        "imageUrl": "https://i.imgur.com/YPm56Mw.png"
+      },
+      {
+        "imageUrl": "https://i.imgur.com/6kyOHoo.png"
+      },
+      {
+        "imageUrl": "https://i.imgur.com/LptONOR.png"
+      },
+      {
+        "imageUrl": "https://i.imgur.com/H2URx9h.png"
+      },
+      {
+        "imageUrl": "https://i.imgur.com/7dtK5cI.png"
+      },
+      {
+        "imageUrl": "https://i.imgur.com/TfEbJFd.png"
+      },
+      {
+        "imageUrl": "https://i.imgur.com/e4zJoFX.png"
+      }
+    ]
+  },
+  {
     "type": "title",
     "title": "Зачем нужны животные?"
   }
