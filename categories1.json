@@ -9,7 +9,15 @@
         "title": "Рыбалка"
       },
       {
-        "name": "pets",
+        "name": "premium",
+        "title": "Рыбалка"
+      },
+      {
+        "name": "economy",
+        "title": "Рыбалка"
+      },
+      {
+        "name": "trailer",
         "title": "Питомцы"
       }
     ]
