@@ -3,7 +3,7 @@
     "type": "images",
     "images": [
       {
-        "imageUrl": "https://i.imgur.com/zDMfuBZ.png",
+        "imageUrl": "https://i.imgur.com/ThcjCGp.png",
         "small": true
       }
     ]
@@ -20,19 +20,23 @@
     "type": "tableOfContents",
     "rows": [
       {
-        "id": "howtostart",
-        "title": "01. Я новичок, как начать рыбачить?"
+        "id": "types",
+        "title": "01. Типы прицепов"
       },
       {
-        "id": "fishing-rodes",
-        "title": "02. Удочки"
+        "id": "buy",
+        "title": "02. Где приобрести прицеп?"
+      },
+      {
+        "id": "attach",
+        "title": "03. К чем можно прицепить прицеп?"
       }
     ]
   },
   {
     "type": "heading",
     "title": "01. Типы прицепов",
-    "id": "trailer-types"
+    "id": "types"
   },
   {
     "type": "text",
@@ -46,60 +50,60 @@
       {
         "imageUrl": "https://i.imgur.com/HjgpxNJ.png",
         "title": "Прицеп для лодки",
-        "description": "Можно перевозить лодки."
+        "description": "Можно перевозить лодки. Государственная стоимость: 2 000 000$"
       },
       {
         "imageUrl": "https://i.imgur.com/DvXGXLA.png",
         "title": "Прицеп на 1 т/с",
-        "description": "Можно перевозить 1 транспортное средство."
+        "description": "Можно перевозить 1 транспортное средство. Государственная стоимость: 2 000 000$"
       },
       {
         "imageUrl": "https://i.imgur.com/sAb7Hzg.png",
         "title": "Прицеп на 2 т/с",
-        "description": "Можно перевозить 2 транспортное средство."
+        "description": "Можно перевозить 2 транспортных средства. Государственная стоимость: 4 000 000$"
       },
       {
         "imageUrl": "https://i.imgur.com/MwfLecF.png",
         "title": "Прицеп хранилище",
-        "description": "Можно хранить личные вещи, доступно 40 слотов."
+        "description": "Можно хранить предметы. Багажник: 40 ед. Государственная стоимость: 15 000 000$"
       }
     ]
   },
   {
     "type": "heading",
     "title": "02. Где приобрести прицеп?",
-    "id": "trailer-find"
+    "id": "buy"
   },
   {
     "type": "text",
     "withoutTitle": true,
-    "text": "Приобрести прицеп можно в магазине коммерческого транспорта, расположенного в окрестностях Сэнди-Шорс (на карте отмечен как большой грузовик)."
+    "text": "Приобрести прицеп можно в автосалоне коммерческого транспорта, расположенного в пустыне Гранд-Сенора (на карте отмечен как большой красный грузовик)."
   },
   {
     "type": "images",
     "columns": 2,
     "images": [
       {
-        "imageUrl": "https://i.imgur.com/z25jxeJ.png"
+        "imageUrl": "https://i.imgur.com/DycOHBq.png"
       },
       {
-        "imageUrl": "https://i.imgur.com/yDGHrZ5.png"
+        "imageUrl": "https://i.imgur.com/BtXE0cT.png"
       }
     ]
   },
   {
     "type": "text",
-    "text": "Местоположение магазина коммерческого транспорта."
+    "text": "Местоположение автосалона коммерческого транспорта."
   },
   {
     "type": "heading",
-    "title": "04. К чем могу прицепить?",
-    "id": "trailer-types"
+    "title": "03. К чем можно прицепить прицеп?",
+    "id": "attach"
   },
   {
     "type": "text",
     "withoutTitle": true,
-    "text": "Актуальный список транспорта к которому можно цеплять прицеп."
+    "text": "Актуальный список транспорта к которым можно прицепить прицеп."
   },
   {
     "type": "images",
