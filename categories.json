@@ -7,6 +7,10 @@
       {
         "name": "fishing",
         "title": "Рыбалка"
+      },
+      {
+        "name": "trailer",
+        "title": "Прицепы"
       }
     ]
   }
