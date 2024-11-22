@@ -3,7 +3,7 @@
     "type": "images",
     "images": [
       {
-        "imageUrl": "https://i.imgur.com/HCWkSea.png",
+        "imageUrl": "https://storage.arizona-v.com/wiki/fishing/HCWkSea.png",
         "small": true
       }
     ]
@@ -75,16 +75,16 @@
     "columns": 4,
     "images": [
       {
-        "imageUrl": "https://i.imgur.com/Mm4khIy.png"
+        "imageUrl": "https://storage.arizona-v.com/wiki/fishing/Mm4khIy.png"
       },
       {
-        "imageUrl": "https://i.imgur.com/sifHWF0.png"
+        "imageUrl": "https://storage.arizona-v.com/wiki/fishing/sifHWF0.png"
       },
       {
-        "imageUrl": "https://i.imgur.com/z25jxeJ.png"
+        "imageUrl": "https://storage.arizona-v.com/wiki/fishing/z25jxeJ.png"
       },
       {
-        "imageUrl": "https://i.imgur.com/yDGHrZ5.png"
+        "imageUrl": "https://storage.arizona-v.com/wiki/fishing/yDGHrZ5.png"
       }
     ]
   },
@@ -105,13 +105,13 @@
     "columns": 3,
     "images": [
       {
-        "imageUrl": "https://i.imgur.com/97sKFVT.png"
+        "imageUrl": "https://storage.arizona-v.com/wiki/fishing/97sKFVT.png"
       },
       {
-        "imageUrl": "https://i.imgur.com/Q7zQs8l.png"
+        "imageUrl": "https://storage.arizona-v.com/wiki/fishing/Q7zQs8l.png"
       },
       {
-        "imageUrl": "https://i.imgur.com/2KEXdWc.png"
+        "imageUrl": "https://storage.arizona-v.com/wiki/fishing/2KEXdWc.png"
       }
     ]
   },
@@ -131,7 +131,7 @@
     "type": "images",
     "images": [
       {
-        "imageUrl": "https://i.imgur.com/Nbuulmz.png"
+        "imageUrl": "https://storage.arizona-v.com/wiki/fishing/Nbuulmz.png"
       }
     ]
   },
@@ -151,7 +151,7 @@
     "type": "images",
     "images": [
       {
-        "imageUrl": "https://i.imgur.com/fLdf0or.png"
+        "imageUrl": "https://storage.arizona-v.com/wiki/fishing/fLdf0or.png"
       }
     ]
   },
@@ -174,32 +174,32 @@
     "headerTitle": "Удочки",
     "rows": [
       {
-        "imageUrl": "https://i.imgur.com/8p7bmP9.png",
+        "imageUrl": "https://storage.arizona-v.com/wiki/fishing/8p7bmP9.png",
         "title": "Обычная удочка",
         "description": "Можно приобрести в магазине туристического снаряжения. Доступна с 1 уровня."
       },
       {
-        "imageUrl": "https://i.imgur.com/iZkXhH0.png",
+        "imageUrl": "https://storage.arizona-v.com/wiki/fishing/iZkXhH0.png",
         "title": "Железная удочка",
         "description": "Можно скрафтить на верстаке в подвале дома или в публичной мастерской. Доступна с 3 уровня и ускоряет ловлю рыбы (5%)"
       },
       {
-        "imageUrl": "https://i.imgur.com/ozHtyPd.png",
+        "imageUrl": "https://storage.arizona-v.com/wiki/fishing/ozHtyPd.png",
         "title": "Медная удочка",
         "description": "Можно скрафтить на верстаке в подвале дома или в публичной мастерской. Доступна с 5 уровня и ускоряет ловлю рыбы (10%)"
       },
       {
-        "imageUrl": "https://i.imgur.com/8mYgyFB.png",
+        "imageUrl": "https://storage.arizona-v.com/wiki/fishing/8mYgyFB.png",
         "title": "Серебряная удочка",
         "description": "Можно скрафтить на верстаке в подвале дома или в публичной мастерской. Доступна с 8 уровня и ускоряет ловлю рыбы (15%)"
       },
       {
-        "imageUrl": "https://i.imgur.com/0TNX6gM.png",
+        "imageUrl": "https://storage.arizona-v.com/wiki/fishing/0TNX6gM.png",
         "title": "Золотая удочка",
         "description": "Можно скрафтить на верстаке в подвале дома или в публичной мастерской. Доступна с 10 уровня и ускоряет ловлю рыбы (20%)"
       },
       {
-        "imageUrl": "https://i.imgur.com/0V1xP05.png",
+        "imageUrl": "https://storage.arizona-v.com/wiki/fishing/0V1xP05.png",
         "title": "Бустер удочка",
         "description": "Можно получить за буст официального сервера Discord. Доступна с 10 уровня и ускоряет ловлю рыбы (20%)"
       }
@@ -219,7 +219,7 @@
     "type": "images",
     "images": [
       {
-        "imageUrl": "https://i.imgur.com/ilwXUaD.png"
+        "imageUrl": "https://storage.arizona-v.com/wiki/fishing/ilwXUaD.png"
       }
     ]
   },
@@ -232,22 +232,22 @@
     "headerTitle": "Наживки",
     "rows": [
       {
-        "imageUrl": "https://i.imgur.com/iFiMRJG.png",
+        "imageUrl": "https://storage.arizona-v.com/wiki/fishing/iFiMRJG.png",
         "title": "Без наживки",
         "description": "Шанс поймать рыбу (50%)."
       },
       {
-        "imageUrl": "https://i.imgur.com/c6LPG07.png",
+        "imageUrl": "https://storage.arizona-v.com/wiki/fishing/c6LPG07.png",
         "title": "Черви",
         "description": "Шанс поймать рыбу (75%)."
       },
       {
-        "imageUrl": "https://i.imgur.com/YQcIDLl.png",
+        "imageUrl": "https://storage.arizona-v.com/wiki/fishing/YQcIDLl.png",
         "title": "Банка червей",
         "description": "Шанс поймать рыбу (100%) и ускоряет ловлю рыбы (5%). Можно скрафтить в подвале дома."
       },
       {
-        "imageUrl": "https://i.imgur.com/kQ8vqsK.png",
+        "imageUrl": "https://storage.arizona-v.com/wiki/fishing/kQ8vqsK.png",
         "title": "Банка мотыля",
         "description": "Шанс поймать рыбу (100%) и ускоряет ловлю рыбы (20%). Можно обменять у Рыбака или купить в игровом магазине."
       }
@@ -267,7 +267,7 @@
     "type": "images",
     "images": [
       {
-        "imageUrl": "https://i.imgur.com/AeLIw8x.png"
+        "imageUrl": "https://storage.arizona-v.com/wiki/fishing/AeLIw8x.png"
       }
     ]
   },
@@ -285,12 +285,12 @@
     "headerTitle": "Предметы снимающие усталость",
     "rows": [
       {
-        "imageUrl": "https://i.imgur.com/WewCPU2.png",
+        "imageUrl": "https://storage.arizona-v.com/wiki/fishing/WewCPU2.png",
         "title": "Энергетический батончик",
         "description": "Снимает 25% усталости при использовании. Можно скрафтить на верстаке в подвале вашего дома или приобрести у игроков."
       },
       {
-        "imageUrl": "https://i.imgur.com/qwqHk2c.png",
+        "imageUrl": "https://storage.arizona-v.com/wiki/fishing/qwqHk2c.png",
         "title": "Энергетическая смесь",
         "description": "Снимает 50% усталости при использовании. Можно приобрести в игровом магазине или игроков."
       }
@@ -300,7 +300,7 @@
     "type": "images",
     "images": [
       {
-        "imageUrl": "https://i.imgur.com/dcleel4.png"
+        "imageUrl": "https://storage.arizona-v.com/wiki/fishing/dcleel4.png"
       }
     ]
   },
@@ -325,7 +325,7 @@
     "type": "images",
     "images": [
       {
-        "imageUrl": "https://i.imgur.com/lTVxlMs.png"
+        "imageUrl": "https://storage.arizona-v.com/wiki/fishing/lTVxlMs.png"
       }
     ]
   },
@@ -334,25 +334,25 @@
     "columns": 7,
     "images": [
       {
-        "imageUrl": "https://i.imgur.com/gKQHMJL.png"
+        "imageUrl": "https://storage.arizona-v.com/wiki/fishing/gKQHMJL.png"
       },
       {
-        "imageUrl": "https://i.imgur.com/r3eRmOz.png"
+        "imageUrl": "https://storage.arizona-v.com/wiki/fishing/r3eRmOz.png"
       },
       {
-        "imageUrl": "https://i.imgur.com/w9gAP37.png"
+        "imageUrl": "https://storage.arizona-v.com/wiki/fishing/w9gAP37.png"
       },
       {
-        "imageUrl": "https://i.imgur.com/iBsiojG.png"
+        "imageUrl": "https://storage.arizona-v.com/wiki/fishing/iBsiojG.png"
       },
       {
-        "imageUrl": "https://i.imgur.com/wuz5LwY.png"
+        "imageUrl": "https://storage.arizona-v.com/wiki/fishing/wuz5LwY.png"
       },
       {
-        "imageUrl": "https://i.imgur.com/4WaKmp8.png"
+        "imageUrl": "https://storage.arizona-v.com/wiki/fishing/4WaKmp8.png"
       },
       {
-        "imageUrl": "https://i.imgur.com/TDbVUpo.png"
+        "imageUrl": "https://storage.arizona-v.com/wiki/fishing/TDbVUpo.png"
       }
     ]
   },
@@ -372,7 +372,7 @@
     "type": "images",
     "images": [
       {
-        "imageUrl": "https://i.imgur.com/KdJ8FmV.png"
+        "imageUrl": "https://storage.arizona-v.com/wiki/fishing/KdJ8FmV.png"
       }
     ]
   },
@@ -408,13 +408,13 @@
     "columns": 3,
     "images": [
       {
-        "imageUrl": "https://i.imgur.com/97sKFVT.png"
+        "imageUrl": "https://storage.arizona-v.com/wiki/fishing/97sKFVT.png"
       },
       {
-        "imageUrl": "https://i.imgur.com/Q7zQs8l.png"
+        "imageUrl": "https://storage.arizona-v.com/wiki/fishing/Q7zQs8l.png"
       },
       {
-        "imageUrl": "https://i.imgur.com/2KEXdWc.png"
+        "imageUrl": "https://storage.arizona-v.com/wiki/fishing/2KEXdWc.png"
       }
     ]
   },
@@ -422,7 +422,7 @@
     "type": "images",
     "images": [
       {
-        "imageUrl": "https://i.imgur.com/OwpjdLd.png"
+        "imageUrl": "https://storage.arizona-v.com/wiki/fishing/OwpjdLd.png"
       }
     ]
   },
@@ -439,22 +439,22 @@
     "columns": 3,
     "images": [
       {
-        "imageUrl": "https://i.imgur.com/K5OlWYp.png"
+        "imageUrl": "https://storage.arizona-v.com/wiki/fishing/K5OlWYp.png"
       },
       {
-        "imageUrl": "https://i.imgur.com/HuarUF7.png"
+        "imageUrl": "https://storage.arizona-v.com/wiki/fishing/HuarUF7.png"
       },
       {
-        "imageUrl": "https://i.imgur.com/mmvCpTb.png"
+        "imageUrl": "https://storage.arizona-v.com/wiki/fishing/mmvCpTb.png"
       },
       {
-        "imageUrl": "https://i.imgur.com/VQNXskK.png"
+        "imageUrl": "https://storage.arizona-v.com/wiki/fishing/VQNXskK.png"
       },
       {
-        "imageUrl": "https://i.imgur.com/pogZSaP.png"
+        "imageUrl": "https://storage.arizona-v.com/wiki/fishing/pogZSaP.png"
       },
       {
-        "imageUrl": "https://i.imgur.com/FcWE6qN.png"
+        "imageUrl": "https://storage.arizona-v.com/wiki/fishing/FcWE6qN.png"
       }
     ]
   },
@@ -466,7 +466,7 @@
     "type": "images",
     "images": [
       {
-        "imageUrl": "https://i.imgur.com/Krzsl3n.png"
+        "imageUrl": "https://storage.arizona-v.com/wiki/fishing/Krzsl3n.png"
       }
     ]
   },
@@ -489,52 +489,52 @@
     "headerTitle": "Возможности навыка",
     "rows": [
       {
-        "imageUrl": "https://i.imgur.com/a5UETz7.png",
+        "imageUrl": "https://storage.arizona-v.com/wiki/fishing/a5UETz7.png",
         "title": "1 уровень",
         "description": "Доступна Обычная удочка. Доступна Береговая рыбалка. 0% уменьшение времени ловли рыбы."
       },
       {
-        "imageUrl": "https://i.imgur.com/wlxhzU4.png",
+        "imageUrl": "https://storage.arizona-v.com/wiki/fishing/wlxhzU4.png",
         "title": "2 уровень",
         "description": "2% уменьшение времени ловли рыбы."
       },
       {
-        "imageUrl": "https://i.imgur.com/JmYwGq6.png",
+        "imageUrl": "https://storage.arizona-v.com/wiki/fishing/JmYwGq6.png",
         "title": "3 уровень",
         "description": "Доступна Железная удочка. Видно % рыбных ресурсов в Зонах с рыбой. 3% уменьшение времени ловли рыбы."
       },
       {
-        "imageUrl": "https://i.imgur.com/xuwOOII.png",
+        "imageUrl": "https://storage.arizona-v.com/wiki/fishing/xuwOOII.png",
         "title": "4 уровень",
         "description": "4% уменьшение времени ловли рыбы."
       },
       {
-        "imageUrl": "https://i.imgur.com/1aYxvlv.png",
+        "imageUrl": "https://storage.arizona-v.com/wiki/fishing/1aYxvlv.png",
         "title": "5 уровень",
         "description": "Доступна Медная удочка. Видит в океане Лунки с рыбой (Морская рыбалка) и может в них рыбачить (необходима лодка). 5% уменьшение времени ловли рыбы."
       },
       {
-        "imageUrl": "https://i.imgur.com/d08oCQI.png",
+        "imageUrl": "https://storage.arizona-v.com/wiki/fishing/d08oCQI.png",
         "title": "6 уровень",
         "description": "6% уменьшение времени ловли рыбы."
       },
       {
-        "imageUrl": "https://i.imgur.com/yxySw3n.png",
+        "imageUrl": "https://storage.arizona-v.com/wiki/fishing/yxySw3n.png",
         "title": "7 уровень",
         "description": "7% уменьшение времени ловли рыбы."
       },
       {
-        "imageUrl": "https://i.imgur.com/a9pHBKB.png",
+        "imageUrl": "https://storage.arizona-v.com/wiki/fishing/a9pHBKB.png",
         "title": "8 уровень",
         "description": "Доступна Серебряная удочка. Видит % рыбных ресурсов в Лунках с рыбой на карте. 8% уменьшение времени ловли рыбы."
       },
       {
-        "imageUrl": "https://i.imgur.com/nGAh8mS.png",
+        "imageUrl": "https://storage.arizona-v.com/wiki/fishing/nGAh8mS.png",
         "title": "9 уровень",
         "description": "9% уменьшение времени ловли рыбы."
       },
       {
-        "imageUrl": "https://i.imgur.com/pA5hPB1.png",
+        "imageUrl": "https://storage.arizona-v.com/wiki/fishing/pA5hPB1.png",
         "title": "10 уровень",
         "description": "Доступна Золотая удочка. 10% уменьшение времени ловли рыбы."
       }
@@ -553,22 +553,22 @@
     "headerTitle": "Предметы для ускорения прокачки",
     "rows": [
       {
-        "imageUrl": "https://i.imgur.com/MYiD7Nv.png",
+        "imageUrl": "https://storage.arizona-v.com/wiki/fishing/MYiD7Nv.png",
         "title": "Протеиновый батончик",
         "description": "+ 25% к JP за протеиновый батончик. Можно скрафтить на верстаке в подвале вашего дома или приобрести у игроков."
       },
       {
-        "imageUrl": "https://i.imgur.com/S6ZGew9.png",
+        "imageUrl": "https://storage.arizona-v.com/wiki/fishing/S6ZGew9.png",
         "title": "Протеиновая смесь",
         "description": "+ 50% к JP за протеиновую смесь. Можно приобрести в игровом магазине или игроков."
       },
       {
-        "imageUrl": "https://i.imgur.com/ByaVEyZ.png",
+        "imageUrl": "https://storage.arizona-v.com/wiki/fishing/ByaVEyZ.png",
         "title": "Arizona Lite",
         "description": "+ 25% к JP за Arizona Lite. Можно получить за выполнение достижений и заданий или приобрести в игровом магазине."
       },
       {
-        "imageUrl": "https://i.imgur.com/XOEjd5S.png",
+        "imageUrl": "https://storage.arizona-v.com/wiki/fishing/XOEjd5S.png",
         "title": "Arizona Plus",
         "description": "+ 50% к JP за Arizona Plus. Можно получить за выполнение достижений и заданий или приобрести в игровом магазине."
       }
@@ -579,52 +579,52 @@
     "headerTitle": "Таблица опыта",
     "rows": [
       {
-        "imageUrl": "https://i.imgur.com/a5UETz7.png",
+        "imageUrl": "https://storage.arizona-v.com/wiki/fishing/a5UETz7.png",
         "title": "1 уровень",
         "description": "Необходимо: 0 JP. Всего: 0 JP."
       },
       {
-        "imageUrl": "https://i.imgur.com/wlxhzU4.png",
+        "imageUrl": "https://storage.arizona-v.com/wiki/fishing/wlxhzU4.png",
         "title": "2 уровень",
         "description": "Необходимо: 700 JP. Всего: 700 JP."
       },
       {
-        "imageUrl": "https://i.imgur.com/JmYwGq6.png",
+        "imageUrl": "https://storage.arizona-v.com/wiki/fishing/JmYwGq6.png",
         "title": "3 уровень",
         "description": "Необходимо: 1400 JP. Всего: 2100 JP."
       },
       {
-        "imageUrl": "https://i.imgur.com/xuwOOII.png",
+        "imageUrl": "https://storage.arizona-v.com/wiki/fishing/xuwOOII.png",
         "title": "4 уровень",
         "description": "Необходимо: 1600 JP. Всего: 3700 JP."
       },
       {
-        "imageUrl": "https://i.imgur.com/1aYxvlv.png",
+        "imageUrl": "https://storage.arizona-v.com/wiki/fishing/1aYxvlv.png",
         "title": "5 уровень",
         "description": "Необходимо: 2400 JP. Всего: 6100 JP."
       },
       {
-        "imageUrl": "https://i.imgur.com/d08oCQI.png",
+        "imageUrl": "https://storage.arizona-v.com/wiki/fishing/d08oCQI.png",
         "title": "6 уровень",
         "description": "Необходимо: 3600 JP. Всего: 9700 JP."
       },
       {
-        "imageUrl": "https://i.imgur.com/yxySw3n.png",
+        "imageUrl": "https://storage.arizona-v.com/wiki/fishing/yxySw3n.png",
         "title": "7 уровень",
         "description": "Необходимо: 5400 JP. Всего: 15100 JP."
       },
       {
-        "imageUrl": "https://i.imgur.com/a9pHBKB.png",
+        "imageUrl": "https://storage.arizona-v.com/wiki/fishing/a9pHBKB.png",
         "title": "8 уровень",
         "description": "Необходимо: 8100 JP. Всего: 23200 JP."
       },
       {
-        "imageUrl": "https://i.imgur.com/nGAh8mS.png",
+        "imageUrl": "https://storage.arizona-v.com/wiki/fishing/nGAh8mS.png",
         "title": "9 уровень",
         "description": "Необходимо: 12000 JP. Всего: 27100 JP."
       },
       {
-        "imageUrl": "https://i.imgur.com/pA5hPB1.png",
+        "imageUrl": "https://storage.arizona-v.com/wiki/fishing/pA5hPB1.png",
         "title": "10 уровень",
         "description": "Необходимо: 18000 JP. Всего: 45100 JP."
       }
@@ -645,27 +645,27 @@
     "headerTitle": "Рыбные ресурсы",
     "rows": [
       {
-        "imageUrl": "https://i.imgur.com/fAvysef.png",
+        "imageUrl": "https://storage.arizona-v.com/wiki/fishing/fAvysef.png",
         "title": "≤100% Очень много",
         "description": "01:30 минуты (90 сек)"
       },
       {
-        "imageUrl": "https://i.imgur.com/01FnqR0.png",
+        "imageUrl": "https://storage.arizona-v.com/wiki/fishing/01FnqR0.png",
         "title": "≤75% Много",
         "description": "02:00 минуты (120 сек)"
       },
       {
-        "imageUrl": "https://i.imgur.com/slcRjj2.png",
+        "imageUrl": "https://storage.arizona-v.com/wiki/fishing/slcRjj2.png",
         "title": "≤50% Нормально",
         "description": "02:30 минуты (150 сек)"
       },
       {
-        "imageUrl": "https://i.imgur.com/xitGQmg.png",
+        "imageUrl": "https://storage.arizona-v.com/wiki/fishing/xitGQmg.png",
         "title": "≤25% Мало",
         "description": "03:00 минуты (180 сек)"
       },
       {
-        "imageUrl": "https://i.imgur.com/Xxi0GuB.png",
+        "imageUrl": "https://storage.arizona-v.com/wiki/fishing/Xxi0GuB.png",
         "title": "≤10% Очень мало",
         "description": "03:30 минуты (210 сек)"
       }
@@ -686,10 +686,10 @@
     "columns": 2,
     "images": [
       {
-        "imageUrl": "https://i.imgur.com/YbFNEi6.png"
+        "imageUrl": "https://storage.arizona-v.com/wiki/fishing/YbFNEi6.png"
       },
       {
-        "imageUrl": "https://i.imgur.com/PiY8tvO.png"
+        "imageUrl": "https://storage.arizona-v.com/wiki/fishing/PiY8tvO.png"
       }
     ]
   },
@@ -702,37 +702,37 @@
     "headerTitle": "Предметы",
     "rows": [
       {
-        "imageUrl": "https://i.imgur.com/mIykhT6.png",
+        "imageUrl": "https://storage.arizona-v.com/wiki/fishing/mIykhT6.png",
         "title": "Катушка",
         "description": "Необходим для создания удочек."
       },
       {
-        "imageUrl": "https://i.imgur.com/GaiqmlW.png",
+        "imageUrl": "https://storage.arizona-v.com/wiki/fishing/GaiqmlW.png",
         "title": "Крючок",
         "description": "Необходим для создания удочек."
       },
       {
-        "imageUrl": "https://i.imgur.com/PY62511.png",
+        "imageUrl": "https://storage.arizona-v.com/wiki/fishing/PY62511.png",
         "title": "Леска",
         "description": "Необходим для создания удочек."
       },
       {
-        "imageUrl": "https://i.imgur.com/2QTwZGY.png",
+        "imageUrl": "https://storage.arizona-v.com/wiki/fishing/2QTwZGY.png",
         "title": "Веревка",
         "description": "Можно обменять на 5 000$ долларов у Рыбака."
       },
       {
-        "imageUrl": "https://i.imgur.com/PXie97T.png",
+        "imageUrl": "https://storage.arizona-v.com/wiki/fishing/PXie97T.png",
         "title": "Мешок с удобрениями",
         "description": "Можно обменять на Банку мотыля у Рыбака."
       },
       {
-        "imageUrl": "https://i.imgur.com/22yvuyT.png",
+        "imageUrl": "https://storage.arizona-v.com/wiki/fishing/22yvuyT.png",
         "title": "Старая книга",
         "description": "Можно обменять на опыт рыбалки у Рыбака."
       },
       {
-        "imageUrl": "https://i.imgur.com/Lg7KUyD.png",
+        "imageUrl": "https://storage.arizona-v.com/wiki/fishing/Lg7KUyD.png",
         "title": "Бутылка с картой",
         "description": "Внутри лежит Карта сокровищ, найдя и выкопав которые, можно получить от ничего до 1 000 000$ долларов."
       }
